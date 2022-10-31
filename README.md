@@ -5,7 +5,7 @@ Here you will find a library with information, documents, books, software and th
 
 ## Machine Learning applied to Cybersecurity
 
-| Name Book |  Link  |   Editor |
+| Name Book |  Editor  |  Link |
 | --------- | ------ | -------- |
 | Mastering Machine Learning for Penetration Testing | Packt | https://www.packt.com/ |
 | Malware Data Science Attack Detection and Attribution |  | https://www.amazon.com.br/Malware-Data-Science-Detection-Attribution-ebook/dp/B077X1V9SY |
